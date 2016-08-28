@@ -1,15 +1,12 @@
-ngo-uwsgi-Nginx-Basic_Config!
+Dlajngo-uwsgi-Nginx-Basic_Config!
 ===================
-Real Simple
+Real Simple  . . OSX Env
 ===================
-
-----------
 
 
 Documents
 -------------
-There is no Big Things , Just 
-
+There is no Big Things  :P
 
 > **Note:**
 
@@ -22,7 +19,4 @@ There is no Big Things , Just
 Good Luck :P 
 ------------
 
-
-
 DdongClear
-----------
